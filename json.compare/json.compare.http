@@ -1,0 +1,6 @@
+@json.compare_HostAddress = http://localhost:5017
+
+GET {{json.compare_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
